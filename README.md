@@ -21,7 +21,7 @@ List of current and future articles below:
 + [Technicians and HF: Getting started on 10 meter!](https://xamintosh.github.io/main/articles/10-meter-techs.html) ### TODO
 + [My first HF radio: AT-5555n usage and review!](https://xamintosh.github.io/main/articles/at5555n-review.html) ### TODO
 + [Fldigi + digirig + linux: A great combo!](https://xamintosh.github.io/main/articles/fdigi-installation-guide.html) ### TODO
-+[The digirig mobile: An affordable digital modes interface!](https://xamintosh.github.io/main/articles/digirig-mobile-review.html) ### TODO
++ [The digirig mobile: An affordable digital modes interface!](https://xamintosh.github.io/main/articles/digirig-mobile-review.html) ### TODO
 
 *NOTE: articles marked "TODO" are in progress
 
